@@ -320,6 +320,8 @@ DOMAIN,cdn.adapi.fotoable.com,REJECT
 # > PeanutWiFiMpass
 DOMAIN,adnew.wifi8.com,REJECT
 DOMAIN,adfile.wifi8.com,REJECT
+# > Plex
+DOMAIN,springserver.com,REJECT
 # (S)
 # > Sina
 DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
