@@ -321,7 +321,8 @@ DOMAIN,cdn.adapi.fotoable.com,REJECT
 DOMAIN,adnew.wifi8.com,REJECT
 DOMAIN,adfile.wifi8.com,REJECT
 # > Plex
-DOMAIN,springserver.com,REJECT
+DOMAIN,assets.springserve.com,REJECT
+DOMAIN,vid-io-dub.springserve.com,REJECT
 # (S)
 # > Sina
 DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
